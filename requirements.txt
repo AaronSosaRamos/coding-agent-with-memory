@@ -1,0 +1,9 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langgraph
+crewai
+crewai[tools]
+python-dotenv
+langchain-experimental 
